@@ -6,9 +6,9 @@ color:
   saturation: 0.1324114203453064
   rhythmicContrast: 0.4157907839398831
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#E3DCD3'
+    - '#A6A6A8'
+    - '#575D59'
+    - '#7E695C'
 name: Plankefest.no
