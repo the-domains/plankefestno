@@ -1,16 +1,30 @@
+name: Plankefest.no
+favicon: null
+layout_spectrum: 0.78316196706146
 typography_spectrum: 0.5823308432009071
+title: Plankefest.no
+description: 'plankemøbler, helt enkelt!'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.4661055440083146
-  lightness: 0.8525293821003288
-  saturation: 0.1324114203453064
-  rhythmicContrast: 0.4157907839398831
   brandColors:
     - '#FFFFFF'
     - '#E3DCD3'
     - '#A6A6A8'
     - '#575D59'
     - '#7E695C'
-layout_spectrum: 0.78316196706146
-name: Plankefest.no
-title: Plankefest.no
-description: 'plankemøbler, helt enkelt!'
+  brandStrength: 0.1875
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.5
+purpose: []
