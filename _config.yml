@@ -1,4 +1,3 @@
-layout_spectrum: 0.78316196706146
 typography_spectrum: 0.5823308432009071
 color:
   brandStrength: 0.4661055440083146
@@ -11,5 +10,7 @@ color:
     - '#A6A6A8'
     - '#575D59'
     - '#7E695C'
+layout_spectrum: 0.78316196706146
 name: Plankefest.no
 title: Plankefest.no
+description: 'plankemøbler, helt enkelt'
