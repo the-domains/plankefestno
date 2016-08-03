@@ -4,7 +4,7 @@
         <description><![CDATA[Plankefest.no]]></description>
         <link>https://thegrid.ai/plankefestno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 08:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 08:19:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/plankefestno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/plankefestno/652ed538-230e-42a8-a9b3-ae240c224f3e/index.html</link>
             <guid isPermaLink="false">652ed538-230e-42a8-a9b3-ae240c224f3e</guid>
             <pubDate>Wed, 03 Aug 2016 08:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sommerens farger 2016</p>]]></description>
-            <link>https://thegrid.ai/plankefestno/sommerens-farger-2016/index.html</link>
-            <guid isPermaLink="false">e3a0bc5a-5729-4028-9a88-8384a558c4f1</guid>
-            <pubDate>Tue, 02 Aug 2016 20:39:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
