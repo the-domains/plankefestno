@@ -4,7 +4,7 @@
         <description><![CDATA[Plankefest.no]]></description>
         <link>https://thegrid.ai/plankefestno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 08:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:14:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/plankefestno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/plankefestno/652ed538-230e-42a8-a9b3-ae240c224f3e/index.html</link>
             <guid isPermaLink="false">652ed538-230e-42a8-a9b3-ae240c224f3e</guid>
             <pubDate>Wed, 03 Aug 2016 08:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bordben]]></title>
+            <description><![CDATA[<article><h1>Bordben</h1><p>Vi har forskjellige bordben som passer en hver stil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b7a9008c5deb49f5c421cf5c3f05adda7199472.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/62bbf4a8-54a0-46b5-a104-feee1855a296.png</link>
+            <guid isPermaLink="false">ff45025b-dbb5-4185-b442-b97540af3168</guid>
+            <pubDate>Wed, 03 Aug 2016 14:14:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
